@@ -1,6 +1,6 @@
 {
-  "appId": "io.ionic.starter",
-  "appName": "ion-vuex",
+  "appId": "com.sample",
+  "appName": "sample",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "dist",
